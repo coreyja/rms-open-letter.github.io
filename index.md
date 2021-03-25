@@ -228,7 +228,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Anastasia Papakosta
 1. Andrea Denisse Gómez-Martínez (Arch Linux, i3blocks maintainer)
 1. André Almeida (Collabora)
-1. Andre Bogus
 1. Andreas Beger
 1. Andreas Drewke
 1. Andreas Frisch (`fraxinas`)
@@ -310,7 +309,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Arun Raghavan (PulseAudio, GStreamer, GNOME; formerly Gentoo)
 1. Ashish Dixit
 1. Ashley Norris
-1. Ask Bjørn Hansen (NTP Pool Project, perl.org)
 1. Assaf Rutenberg
 1. Asta Halkjær From
 1. Asumu Takikawa (Igalia)
@@ -586,6 +584,7 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Corentin Noël (Collabora, elementary, GNOME)
 1. Cor Nouws (Collabora Productivity Marketing Lead)
 1. Cory DeVore
+1. Corey Alexander
 1. Courtney Thurston (former Spark distro dev)
 1. Craig Maloney
 1. cricket c. piapiac
@@ -785,7 +784,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Eleanor Ashton
 1. Elen Eisendle
 1. Eli Heuer
-1. Elio Qoshi
 1. Eliott Lavier
 1. Elizabeth Anne Cray
 1. Elizabeth Bell (Mozilla)
@@ -2133,7 +2131,6 @@ identification purposes only and does not constitute endorsement.)</small>
 1. Sean McGinnis
 1. Sean O'Brien
 1. seb1g
-1. Sebastian Behrens
 1. Sebastian Dröge (GStreamer, GNOME, Debian)
 1. Sebastian Kügler (KDE)
 1. Sebastian Ramacher (Debian Developer)
